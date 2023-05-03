@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fashion Store</string>
+    <string name="login_sign">Login/Sign Up</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="pswd">Your Password</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_contact">Your Contact</string>
+    <string name="otp">-</string>
+    <string name="verify_otp">Verify OTP</string>
+</resources>
